@@ -8,9 +8,14 @@ sites:
     icon: https://onekuma.cn/favicon.svg
   - name: Blog
     url: https://blog.onekuma.cn
+  - name: Hexo
+    url: https://xlor.cn
   - name: AnimeGarden
     url: https://garden.onekuma.cn
     icon: https://garden.onekuma.cn/favicon.svg
+  - name: Livehouse
+    url: https://live.onekuma.cn/
+    icon: https://live.onekuma.cn/favicon.jpg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
