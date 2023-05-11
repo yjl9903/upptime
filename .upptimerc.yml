@@ -16,6 +16,9 @@ sites:
   - name: Livehouse
     url: https://live.onekuma.cn/
     icon: https://live.onekuma.cn/favicon.jpg
+  - name: 弥希 Miki 舰长日报
+    url: https://miki.xlor.cn/
+    icon: https://miki.xlor.cn/favicon.jpeg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
