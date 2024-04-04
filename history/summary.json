@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.onekuma.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "96.36%",
+    "uptime": "96.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.36%",
+    "uptimeYear": "96.37%",
     "time": 684,
     "timeDay": 476,
     "timeWeek": 924,
@@ -127,9 +127,9 @@
     "url": "https://live.onekuma.cn/",
     "icon": "https://live.onekuma.cn/favicon.jpg",
     "slug": "livehouse",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -139,6 +139,7 @@
     "timeMonth": 304,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2024-04-04": 0,
       "2024-02-29": 191,
       "2023-10-30": 30
     }
