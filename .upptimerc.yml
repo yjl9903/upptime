@@ -13,7 +13,8 @@ sites:
   - name: AnimeGarden
     url: https://garden.onekuma.cn
     icon: https://garden.onekuma.cn/favicon.svg
-  - name: resonance-market
+  - name: 雷索纳斯市场
+    slug: resonance-market
     url: https://resonance.breadio.wiki/
     icon: https://resonance.breadio.wiki/favicon.png
     headers:
