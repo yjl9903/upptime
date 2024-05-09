@@ -16,6 +16,8 @@ sites:
   - name: 雷索纳斯市场
     url: https://resonance.breadio.wiki/
     icon: https://resonance.breadio.wiki/favicon.png
+    headers:
+      - "User-Agent: resonance-market"
   - name: Livehouse
     url: https://live.onekuma.cn/
     icon: https://live.onekuma.cn/favicon.jpg
@@ -40,3 +42,4 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+user-agent: yjl9903
