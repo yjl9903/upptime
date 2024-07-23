@@ -11,8 +11,8 @@ sites:
   - name: Hexo
     url: https://xlor.cn
   - name: AnimeGarden
-    url: https://garden.onekuma.cn
-    icon: https://garden.onekuma.cn/favicon.svg
+    url: https://garden.breadio.wiki
+    icon: https://garden.breadio.wiki/favicon.svg
   - name: 雷索纳斯市场
     slug: resonance-market
     url: https://resonance.breadio.wiki/
