@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 324,
-    "timeDay": 335,
-    "timeWeek": 357,
+    "time": 325,
+    "timeDay": 390,
+    "timeWeek": 358,
     "timeMonth": 376,
-    "timeYear": 329,
+    "timeYear": 330,
     "dailyMinutesDown": {
       "2024-02-29": 192
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
-    "time": 678,
-    "timeDay": 577,
-    "timeWeek": 557,
-    "timeMonth": 603,
-    "timeYear": 652,
+    "time": 679,
+    "timeDay": 1002,
+    "timeWeek": 641,
+    "timeMonth": 611,
+    "timeYear": 653,
     "dailyMinutesDown": {
       "2024-02-29": 192,
       "2024-01-18": 90,
@@ -46,8 +46,7 @@
       "2023-09-13": 24,
       "2023-08-29": 575,
       "2023-08-28": 143,
-      "2023-08-27": 1102,
-      "2023-08-26": 1440
+      "2023-08-27": 1102
     }
   },
   {
@@ -62,10 +61,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 342,
-    "timeDay": 329,
-    "timeWeek": 344,
+    "timeDay": 402,
+    "timeWeek": 367,
     "timeMonth": 338,
-    "timeYear": 341,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2023-10-30": 30
     }
@@ -76,16 +75,16 @@
     "icon": "https://garden.breadio.wiki/favicon.svg",
     "slug": "anime-garden",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
     "time": 1198,
-    "timeDay": 916,
-    "timeWeek": 710,
-    "timeMonth": 1256,
-    "timeYear": 1011,
+    "timeDay": 1384,
+    "timeWeek": 718,
+    "timeMonth": 1226,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2024-08-07": 40,
       "2024-07-23": 111,
@@ -107,11 +106,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1883,
-    "timeDay": 1248,
-    "timeWeek": 1385,
-    "timeMonth": 1457,
-    "timeYear": 1883,
+    "time": 1880,
+    "timeDay": 1522,
+    "timeWeek": 1434,
+    "timeMonth": 1456,
+    "timeYear": 1880,
     "dailyMinutesDown": {}
   },
   {
@@ -125,10 +124,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 297,
-    "timeDay": 286,
-    "timeWeek": 346,
-    "timeMonth": 316,
+    "time": 298,
+    "timeDay": 371,
+    "timeWeek": 362,
+    "timeMonth": 317,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2024-02-29": 191,
@@ -147,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 320,
-    "timeWeek": 326,
-    "timeMonth": 310,
+    "timeDay": 185,
+    "timeWeek": 308,
+    "timeMonth": 304,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2023-10-30": 30
