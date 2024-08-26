@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 325,
-    "timeDay": 390,
-    "timeWeek": 358,
+    "timeDay": 392,
+    "timeWeek": 378,
     "timeMonth": 376,
     "timeYear": 330,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.onekuma.cn.ico",
     "slug": "blog",
     "status": "up",
-    "uptime": "97.46%",
+    "uptime": "97.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.27%",
     "time": 679,
-    "timeDay": 1002,
-    "timeWeek": 641,
-    "timeMonth": 611,
-    "timeYear": 653,
+    "timeDay": 638,
+    "timeWeek": 648,
+    "timeMonth": 603,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2024-02-29": 192,
       "2024-01-18": 90,
@@ -45,8 +45,7 @@
       "2023-09-21": 16,
       "2023-09-13": 24,
       "2023-08-29": 575,
-      "2023-08-28": 143,
-      "2023-08-27": 1102
+      "2023-08-28": 143
     }
   },
   {
@@ -62,7 +61,7 @@
     "uptimeYear": "99.99%",
     "time": 342,
     "timeDay": 402,
-    "timeWeek": 367,
+    "timeWeek": 381,
     "timeMonth": 338,
     "timeYear": 342,
     "dailyMinutesDown": {
@@ -80,11 +79,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.83%",
-    "time": 1198,
-    "timeDay": 1384,
-    "timeWeek": 718,
-    "timeMonth": 1226,
-    "timeYear": 1013,
+    "time": 1199,
+    "timeDay": 1847,
+    "timeWeek": 931,
+    "timeMonth": 1231,
+    "timeYear": 1015,
     "dailyMinutesDown": {
       "2024-08-07": 40,
       "2024-07-23": 111,
@@ -106,11 +105,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1880,
-    "timeDay": 1522,
-    "timeWeek": 1434,
-    "timeMonth": 1456,
-    "timeYear": 1880,
+    "time": 1876,
+    "timeDay": 1484,
+    "timeWeek": 1456,
+    "timeMonth": 1454,
+    "timeYear": 1876,
     "dailyMinutesDown": {}
   },
   {
@@ -125,10 +124,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 298,
-    "timeDay": 371,
-    "timeWeek": 362,
+    "timeDay": 401,
+    "timeWeek": 374,
     "timeMonth": 317,
-    "timeYear": 300,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2024-02-29": 191,
       "2023-10-30": 30
@@ -146,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 185,
-    "timeWeek": 308,
-    "timeMonth": 304,
+    "timeDay": 385,
+    "timeWeek": 318,
+    "timeMonth": 310,
     "timeYear": 351,
     "dailyMinutesDown": {
       "2023-10-30": 30
