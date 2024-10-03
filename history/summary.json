@@ -96,18 +96,20 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 797,
-    "timeWeek": 797,
-    "timeMonth": 797,
-    "timeYear": 797,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "96.36%",
+    "uptimeDay": "96.36%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "96.36%",
+    "uptimeYear": "96.36%",
+    "time": 771,
+    "timeDay": 771,
+    "timeWeek": 771,
+    "timeMonth": 771,
+    "timeYear": 771,
+    "dailyMinutesDown": {
+      "2024-10-03": 0
+    }
   },
   {
     "name": "Livehouse",
