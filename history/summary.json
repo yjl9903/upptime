@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 334,
-    "timeDay": 398,
-    "timeWeek": 352,
-    "timeMonth": 371,
+    "timeDay": 446,
+    "timeWeek": 386,
+    "timeMonth": 378,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2024-02-29": 192
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 675,
-    "timeDay": 518,
-    "timeWeek": 556,
-    "timeMonth": 600,
+    "timeDay": 519,
+    "timeWeek": 568,
+    "timeMonth": 603,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2024-02-29": 192,
@@ -54,13 +54,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 343,
-    "timeDay": 416,
-    "timeWeek": 341,
+    "timeDay": 226,
+    "timeWeek": 326,
     "timeMonth": 365,
-    "timeYear": 348,
-    "dailyMinutesDown": {
-      "2023-10-30": 30
-    }
+    "timeYear": 347,
+    "dailyMinutesDown": {}
   },
   {
     "name": "AnimeGarden",
@@ -73,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1124,
-    "timeDay": 1450,
-    "timeWeek": 996,
-    "timeMonth": 999,
-    "timeYear": 1101,
+    "time": 1123,
+    "timeDay": 645,
+    "timeWeek": 950,
+    "timeMonth": 1005,
+    "timeYear": 1100,
     "dailyMinutesDown": {
       "2024-09-24": 246,
       "2024-08-07": 40,
@@ -85,8 +83,7 @@
       "2024-06-11": 304,
       "2024-04-26": 170,
       "2024-02-29": 192,
-      "2024-02-05": 43,
-      "2023-10-30": 30
+      "2024-02-05": 43
     }
   },
   {
@@ -95,16 +92,16 @@
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
     "status": "up",
-    "uptime": "88.82%",
+    "uptime": "89.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
-    "uptimeMonth": "88.82%",
-    "uptimeYear": "88.82%",
-    "time": 8995,
-    "timeDay": 3444,
-    "timeWeek": 7273,
-    "timeMonth": 8995,
-    "timeYear": 8995,
+    "uptimeMonth": "89.26%",
+    "uptimeYear": "89.26%",
+    "time": 8972,
+    "timeDay": 3922,
+    "timeWeek": 7406,
+    "timeMonth": 8972,
+    "timeYear": 8972,
     "dailyMinutesDown": {
       "2024-10-22": 18,
       "2024-10-20": 17,
@@ -131,14 +128,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 301,
-    "timeDay": 371,
-    "timeWeek": 312,
+    "time": 302,
+    "timeDay": 241,
+    "timeWeek": 308,
     "timeMonth": 319,
     "timeYear": 307,
     "dailyMinutesDown": {
-      "2024-02-29": 191,
-      "2023-10-30": 30
+      "2024-02-29": 191
     }
   },
   {
@@ -153,12 +149,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 346,
-    "timeDay": 365,
-    "timeWeek": 335,
-    "timeMonth": 332,
+    "timeDay": 292,
+    "timeWeek": 347,
+    "timeMonth": 329,
     "timeYear": 351,
-    "dailyMinutesDown": {
-      "2023-10-30": 30
-    }
+    "dailyMinutesDown": {}
   }
 ]
