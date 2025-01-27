@@ -1,7 +1,7 @@
 url: https://garden.breadio.wiki/api
-status: up
-code: 200
-responseTime: 7689
-lastUpdated: 2025-01-26T23:15:00.151Z
+status: down
+code: 500
+responseTime: 274
+lastUpdated: 2025-01-27T19:05:22.568Z
 startTime: 2024-11-16T10:57:30.766Z
 generator: Upptime <https://github.com/upptime/upptime>
