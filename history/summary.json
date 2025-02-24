@@ -64,9 +64,9 @@
     "slug": "anime-garden",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "75.65%",
-    "uptimeWeek": "94.53%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "75.16%",
+    "uptimeWeek": "94.46%",
+    "uptimeMonth": "97.04%",
     "uptimeYear": "99.39%",
     "time": 2119,
     "timeDay": 4315,
@@ -74,7 +74,7 @@
     "timeMonth": 4566,
     "timeYear": 2401,
     "dailyMinutesDown": {
-      "2025-02-24": 351,
+      "2025-02-24": 358,
       "2025-02-18": 183,
       "2025-02-17": 202,
       "2025-02-16": 50,
@@ -111,19 +111,19 @@
     "url": "https://garden.breadio.wiki/api",
     "icon": "https://garden.breadio.wiki/favicon.svg",
     "slug": "anime-garden-api",
-    "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "67.44%",
-    "uptimeWeek": "94.32%",
-    "uptimeMonth": "97.61%",
-    "uptimeYear": "99.22%",
-    "time": 4674,
-    "timeDay": 3039,
-    "timeWeek": 7506,
-    "timeMonth": 6304,
-    "timeYear": 4674,
+    "status": "up",
+    "uptime": "99.21%",
+    "uptimeDay": "66.98%",
+    "uptimeWeek": "94.25%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "99.21%",
+    "time": 4680,
+    "timeDay": 3201,
+    "timeWeek": 7469,
+    "timeMonth": 6301,
+    "timeYear": 4680,
     "dailyMinutesDown": {
-      "2025-02-24": 453,
+      "2025-02-24": 459,
       "2025-02-23": 16,
       "2025-02-20": 29,
       "2025-02-18": 36,
@@ -154,7 +154,7 @@
     "timeMonth": 247,
     "timeYear": 247,
     "dailyMinutesDown": {
-      "2025-02-24": 361
+      "2025-02-24": 368
     }
   },
   {
@@ -174,7 +174,7 @@
     "timeMonth": 11,
     "timeYear": 11,
     "dailyMinutesDown": {
-      "2025-02-24": 361
+      "2025-02-24": 368
     }
   },
   {
