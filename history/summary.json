@@ -142,19 +142,19 @@
     "url": "https://test.animes.garden",
     "icon": "https://test.animes.garden/favicon.svg",
     "slug": "anime-garden-test",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 800,
+    "timeDay": 800,
+    "timeWeek": 800,
+    "timeMonth": 800,
+    "timeYear": 800,
     "dailyMinutesDown": {
-      "2025-02-24": 371
+      "2025-02-24": 374
     }
   },
   {
@@ -162,19 +162,19 @@
     "url": "https://test.animes.garden/api",
     "icon": "https://test.animes.garden/favicon.svg",
     "slug": "anime-garden-api-test",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 10,
-    "timeDay": 10,
-    "timeWeek": 10,
-    "timeMonth": 10,
-    "timeYear": 10,
+    "status": "up",
+    "uptime": "0.08%",
+    "uptimeDay": "0.08%",
+    "uptimeWeek": "0.08%",
+    "uptimeMonth": "0.08%",
+    "uptimeYear": "0.08%",
+    "time": 129,
+    "timeDay": 129,
+    "timeWeek": 129,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
-      "2025-02-24": 371
+      "2025-02-24": 374
     }
   },
   {
