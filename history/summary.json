@@ -15,9 +15,7 @@
     "timeWeek": 407,
     "timeMonth": 363,
     "timeYear": 353,
-    "dailyMinutesDown": {
-      "2024-02-29": 192
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -35,9 +33,7 @@
     "timeWeek": 540,
     "timeMonth": 609,
     "timeYear": 651,
-    "dailyMinutesDown": {
-      "2024-02-29": 192
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hexo",
@@ -104,8 +100,7 @@
       "2024-08-07": 40,
       "2024-07-23": 111,
       "2024-06-11": 304,
-      "2024-04-26": 170,
-      "2024-02-29": 192
+      "2024-04-26": 170
     }
   },
   {
@@ -114,11 +109,11 @@
     "icon": "https://garden.breadio.wiki/favicon.svg",
     "slug": "anime-garden-api",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "98.08%",
     "uptimeWeek": "94.66%",
     "uptimeMonth": "97.63%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 4919,
     "timeDay": 10997,
     "timeWeek": 5173,
@@ -148,11 +143,11 @@
     "icon": "https://test.animes.garden/favicon.svg",
     "slug": "anime-garden-test",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.77%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "92.77%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "92.81%",
     "time": 1499,
     "timeDay": 1809,
     "timeWeek": 1499,
@@ -168,11 +163,11 @@
     "icon": "https://test.animes.garden/favicon.svg",
     "slug": "anime-garden-api-test",
     "status": "up",
-    "uptime": "92.77%",
+    "uptime": "92.81%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.77%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "92.77%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "92.81%",
     "time": 189,
     "timeDay": 239,
     "timeWeek": 189,
@@ -189,9 +184,9 @@
     "slug": "keep-share",
     "status": "up",
     "uptime": "96.89%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.72%",
     "uptimeYear": "96.89%",
     "time": 8275,
     "timeDay": 10983,
@@ -199,7 +194,6 @@
     "timeMonth": 5787,
     "timeYear": 8275,
     "dailyMinutesDown": {
-      "2025-02-27": 7,
       "2025-02-25": 20,
       "2025-02-09": 17,
       "2025-02-05": 86,
@@ -254,9 +248,7 @@
     "timeWeek": 265,
     "timeMonth": 306,
     "timeYear": 316,
-    "dailyMinutesDown": {
-      "2024-02-29": 191
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "弥希 Miki 舰长日报",
