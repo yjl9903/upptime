@@ -58,9 +58,9 @@
     "url": "https://garden.breadio.wiki",
     "icon": "https://garden.breadio.wiki/favicon.svg",
     "slug": "anime-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "95.98%",
+    "uptimeDay": "95.93%",
     "uptimeWeek": "99.14%",
     "uptimeMonth": "97.19%",
     "uptimeYear": "99.49%",
@@ -70,7 +70,7 @@
     "timeMonth": 5049,
     "timeYear": 2661,
     "dailyMinutesDown": {
-      "2025-03-09": 57,
+      "2025-03-09": 58,
       "2025-03-08": 10,
       "2025-03-06": 12,
       "2025-03-02": 22,
@@ -103,7 +103,7 @@
       "2024-11-25": 60,
       "2024-11-14": 19,
       "2024-09-24": 246,
-      "2024-08-07": 40
+      "2024-08-07": 15
     }
   },
   {
