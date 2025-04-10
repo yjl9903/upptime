@@ -13,8 +13,11 @@ sites:
   - name: Anime Garden
     url: https://animes.garden
     icon: https://animes.garden/favicon.svg
-  - name: Anime Garden API
+  - name: Anime Garden - API
     url: https://animes.garden/api/
+    icon: https://animes.garden/favicon.svg
+  - name: Anime Garden - Feed
+    url: https://api.animes.garden/
     icon: https://animes.garden/favicon.svg
   - name: KeepShare
     url: https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF
