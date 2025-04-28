@@ -1,7 +1,7 @@
 url: https://api.animes.garden/
-status: down
-code: 500
-responseTime: 12
-lastUpdated: 2025-04-28T23:47:00.455Z
+status: up
+code: 200
+responseTime: 20
+lastUpdated: 2025-04-28T23:54:57.455Z
 startTime: 2025-04-10T16:09:20.327Z
 generator: Upptime <https://github.com/upptime/upptime>
