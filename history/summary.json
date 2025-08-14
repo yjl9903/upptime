@@ -266,19 +266,19 @@
     "url": "https://live.onekuma.cn/",
     "icon": "https://live.onekuma.cn/favicon.jpg",
     "slug": "livehouse",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 177,
-    "timeWeek": 351,
-    "timeMonth": 407,
+    "time": 327,
+    "timeDay": 176,
+    "timeWeek": 329,
+    "timeMonth": 400,
     "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-08-14": 0
+      "2025-08-14": 12
     }
   },
   {
