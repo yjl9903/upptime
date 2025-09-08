@@ -199,9 +199,9 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "95.47%",
+    "uptimeDay": "95.45%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "98.97%",
@@ -266,7 +266,7 @@
       "2024-10-16": 558,
       "2024-10-13": 17,
       "2024-10-08": 19,
-      "2024-10-07": 209
+      "2024-10-07": 184
     }
   },
   {
