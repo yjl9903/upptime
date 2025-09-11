@@ -24,12 +24,12 @@
     "slug": "blog",
     "status": "up",
     "uptime": "98.57%",
-    "uptimeDay": "92.05%",
+    "uptimeDay": "93.63%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "99.94%",
     "time": 812,
-    "timeDay": 4819,
+    "timeDay": 5026,
     "timeWeek": 3613,
     "timeMonth": 2296,
     "timeYear": 867,
@@ -202,10 +202,10 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "75.79%",
-    "uptimeWeek": "90.08%",
+    "uptimeDay": "75.77%",
+    "uptimeWeek": "90.07%",
     "uptimeMonth": "97.61%",
     "uptimeYear": "99.72%",
     "time": 7366,
@@ -241,8 +241,7 @@
       "2025-03-30": 31,
       "2025-03-18": 14,
       "2025-03-13": 18,
-      "2025-02-25": 20,
-      "2025-02-09": 17
+      "2025-02-25": 20
     }
   },
   {
