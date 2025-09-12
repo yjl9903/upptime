@@ -68,18 +68,19 @@
     "url": "https://animes.garden",
     "icon": "https://animes.garden/favicon.svg",
     "slug": "anime-garden",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "99.43%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.67%",
-    "time": 2965,
+    "time": 2968,
     "timeDay": 12447,
     "timeWeek": 10029,
     "timeMonth": 6624,
     "timeYear": 3333,
     "dailyMinutesDown": {
+      "2025-09-12": 1,
       "2025-09-11": 41,
       "2025-09-10": 10,
       "2025-09-06": 7,
@@ -111,8 +112,7 @@
       "2025-04-10": 29,
       "2025-04-09": 200,
       "2025-04-08": 522,
-      "2025-04-07": 259,
-      "2025-04-06": 10
+      "2025-04-07": 259
     }
   },
   {
@@ -207,7 +207,7 @@
     "slug": "keep-share",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "66.75%",
+    "uptimeDay": "67.30%",
     "uptimeWeek": "84.65%",
     "uptimeMonth": "96.47%",
     "uptimeYear": "99.69%",
