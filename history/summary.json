@@ -179,10 +179,10 @@
     "url": "https://api.animes.garden/",
     "icon": "https://animes.garden/favicon.svg",
     "slug": "anime-garden-feed",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "95.80%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.73%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.41%",
     "uptimeYear": "99.81%",
     "time": 1571,
@@ -191,7 +191,7 @@
     "timeMonth": 4095,
     "timeYear": 1571,
     "dailyMinutesDown": {
-      "2025-09-13": 61,
+      "2025-09-13": 62,
       "2025-08-20": 68,
       "2025-08-19": 130,
       "2025-08-05": 100,
@@ -208,11 +208,11 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "63.74%",
-    "uptimeWeek": "83.33%",
-    "uptimeMonth": "96.16%",
+    "uptimeDay": "64.07%",
+    "uptimeWeek": "83.41%",
+    "uptimeMonth": "96.18%",
     "uptimeYear": "99.66%",
     "time": 7288,
     "timeDay": 5480,
@@ -224,7 +224,7 @@
       "2025-09-12": 484,
       "2025-09-11": 423,
       "2025-09-10": 368,
-      "2025-09-09": 150
+      "2025-09-09": 142
     }
   },
   {
