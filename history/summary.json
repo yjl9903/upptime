@@ -202,11 +202,11 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
-    "uptimeDay": "63.59%",
-    "uptimeWeek": "83.60%",
-    "uptimeMonth": "96.23%",
+    "uptimeDay": "64.45%",
+    "uptimeWeek": "83.74%",
+    "uptimeMonth": "96.26%",
     "uptimeYear": "99.67%",
     "time": 7275,
     "timeDay": 5596,
@@ -217,7 +217,7 @@
       "2025-09-13": 443,
       "2025-09-12": 484,
       "2025-09-11": 423,
-      "2025-09-10": 307
+      "2025-09-10": 293
     }
   },
   {
