@@ -272,19 +272,19 @@
     "url": "https://miki.xlor.cn/",
     "icon": "https://miki.xlor.cn/favicon.jpeg",
     "slug": "miki",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 349,
-    "timeDay": 346,
-    "timeWeek": 321,
-    "timeMonth": 386,
+    "timeDay": 371,
+    "timeWeek": 333,
+    "timeMonth": 387,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2025-10-01": 0
+      "2025-10-01": 15
     }
   }
 ]
