@@ -24,12 +24,12 @@
     "slug": "blog",
     "status": "up",
     "uptime": "98.56%",
-    "uptimeDay": "94.98%",
+    "uptimeDay": "96.24%",
     "uptimeWeek": "97.97%",
     "uptimeMonth": "98.18%",
     "uptimeYear": "99.83%",
     "time": 1068,
-    "timeDay": 2127,
+    "timeDay": 964,
     "timeWeek": 2489,
     "timeMonth": 3045,
     "timeYear": 1232,
@@ -141,11 +141,11 @@
     "url": "https://animes.garden/api/",
     "icon": "https://animes.garden/favicon.svg",
     "slug": "anime-garden-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "99.66%",
     "time": 3932,
     "timeDay": 14482,
@@ -153,7 +153,7 @@
     "timeMonth": 7426,
     "timeYear": 3932,
     "dailyMinutesDown": {
-      "2025-10-02": 28,
+      "2025-10-02": 29,
       "2025-09-24": 33,
       "2025-09-14": 56,
       "2025-09-13": 244,
@@ -184,7 +184,7 @@
       "2025-03-13": 31,
       "2025-03-10": 100,
       "2025-03-09": 74,
-      "2025-03-02": 35
+      "2025-03-02": 30
     }
   },
   {
