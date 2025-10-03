@@ -67,19 +67,19 @@
     "url": "https://xlor.cn",
     "icon": "https://icons.duckduckgo.com/ip3/xlor.cn.ico",
     "slug": "hexo",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 376,
-    "timeDay": 493,
-    "timeWeek": 393,
-    "timeMonth": 391,
+    "timeDay": 452,
+    "timeWeek": 391,
+    "timeMonth": 390,
     "timeYear": 383,
     "dailyMinutesDown": {
-      "2025-10-03": 0
+      "2025-10-03": 9
     }
   },
   {
