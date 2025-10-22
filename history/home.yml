@@ -1,7 +1,7 @@
 url: https://onekuma.cn
-status: up
-code: 200
-responseTime: 318
-lastUpdated: 2025-10-21T23:04:51.422Z
+status: down
+code: 429
+responseTime: 350
+lastUpdated: 2025-10-22T11:46:25.227Z
 startTime: 2023-05-11T08:26:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
