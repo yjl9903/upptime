@@ -6,9 +6,9 @@
     "slug": "home",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "85.88%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.03%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.96%",
     "time": 379,
     "timeDay": 334,
@@ -16,7 +16,7 @@
     "timeMonth": 348,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2025-10-22": 203
+      "2025-10-22": 216
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.onekuma.cn",
     "icon": "https://icons.duckduckgo.com/ip3/blog.onekuma.cn.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.88%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "98.90%",
-    "uptimeYear": "99.79%",
-    "time": 1217,
-    "timeDay": 927,
-    "timeWeek": 2939,
-    "timeMonth": 2559,
-    "timeYear": 1386,
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "98.88%",
+    "uptimeYear": "99.78%",
+    "time": 1232,
+    "timeDay": 5223,
+    "timeWeek": 3202,
+    "timeMonth": 2645,
+    "timeYear": 1403,
     "dailyMinutesDown": {
-      "2025-10-22": 0,
+      "2025-10-22": 12,
       "2025-10-20": 8,
       "2025-10-19": 27,
       "2025-10-18": 23,
@@ -82,9 +82,9 @@
     "slug": "hexo",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "85.88%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "85.03%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.49%",
     "uptimeYear": "99.96%",
     "time": 374,
     "timeDay": 172,
@@ -92,7 +92,7 @@
     "timeMonth": 349,
     "timeYear": 381,
     "dailyMinutesDown": {
-      "2025-10-22": 203,
+      "2025-10-22": 216,
       "2025-10-03": 9
     }
   },
@@ -105,7 +105,7 @@
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.68%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.72%",
     "time": 3306,
     "timeDay": 484,
@@ -275,9 +275,9 @@
     "slug": "livehouse",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "85.86%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.54%",
+    "uptimeDay": "85.01%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.51%",
     "uptimeYear": "99.96%",
     "time": 330,
     "timeDay": 232,
@@ -285,7 +285,7 @@
     "timeMonth": 319,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2025-10-22": 204,
+      "2025-10-22": 216,
       "2025-08-14": 12
     }
   },
@@ -296,9 +296,9 @@
     "slug": "miki",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "85.86%",
-    "uptimeWeek": "97.98%",
-    "uptimeMonth": "99.50%",
+    "uptimeDay": "85.01%",
+    "uptimeWeek": "97.86%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.96%",
     "time": 349,
     "timeDay": 240,
@@ -306,7 +306,7 @@
     "timeMonth": 362,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2025-10-22": 204,
+      "2025-10-22": 216,
       "2025-10-01": 15
     }
   }
