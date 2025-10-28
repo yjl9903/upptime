@@ -24,19 +24,19 @@
     "url": "https://blog.onekuma.cn",
     "icon": "https://icons.duckduckgo.com/ip3/blog.onekuma.cn.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.23%",
+    "uptimeDay": "99.19%",
     "uptimeWeek": "99.31%",
     "uptimeMonth": "99.08%",
-    "uptimeYear": "99.77%",
-    "time": 1260,
+    "uptimeYear": "99.78%",
+    "time": 1262,
     "timeDay": 979,
     "timeWeek": 2592,
     "timeMonth": 2508,
     "timeYear": 1426,
     "dailyMinutesDown": {
-      "2025-10-28": 11,
+      "2025-10-28": 12,
       "2025-10-25": 7,
       "2025-10-24": 32,
       "2025-10-23": 7,
@@ -74,8 +74,7 @@
       "2025-09-09": 71,
       "2025-08-11": 10,
       "2025-08-10": 8,
-      "2025-06-20": 13,
-      "2025-05-14": 58
+      "2025-06-20": 13
     }
   },
   {
@@ -105,7 +104,7 @@
     "icon": "https://animes.garden/favicon.svg",
     "slug": "anime-garden",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
