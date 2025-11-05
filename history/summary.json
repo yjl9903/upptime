@@ -24,9 +24,9 @@
     "url": "https://blog.onekuma.cn",
     "icon": "https://icons.duckduckgo.com/ip3/blog.onekuma.cn.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "99.54%",
+    "uptimeDay": "99.52%",
     "uptimeWeek": "98.24%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.80%",
@@ -36,6 +36,7 @@
     "timeMonth": 2415,
     "timeYear": 1458,
     "dailyMinutesDown": {
+      "2025-11-05": 0,
       "2025-11-04": 7,
       "2025-11-03": 39,
       "2025-11-02": 83,
@@ -76,7 +77,7 @@
       "2025-09-14": 31,
       "2025-09-13": 10,
       "2025-09-12": 7,
-      "2025-09-11": 14
+      "2025-09-11": 7
     }
   },
   {
@@ -254,7 +255,7 @@
     "timeDay": 3626,
     "timeWeek": 3823,
     "timeMonth": 4005,
-    "timeYear": 6682,
+    "timeYear": 6667,
     "dailyMinutesDown": {
       "2025-10-24": 8,
       "2025-10-20": 18,
