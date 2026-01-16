@@ -117,7 +117,7 @@
     "icon": "https://animes.garden/favicon.svg",
     "slug": "anime-garden",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -126,7 +126,7 @@
     "timeDay": 512,
     "timeWeek": 696,
     "timeMonth": 777,
-    "timeYear": 3617,
+    "timeYear": 3598,
     "dailyMinutesDown": {
       "2025-12-04": 12,
       "2025-11-18": 169,
@@ -258,16 +258,16 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "98.39%",
-    "uptimeMonth": "98.22%",
-    "uptimeYear": "99.70%",
-    "time": 5280,
+    "uptimeDay": "96.90%",
+    "uptimeWeek": "98.38%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "99.71%",
+    "time": 5285,
     "timeDay": 3831,
     "timeWeek": 4492,
-    "timeMonth": 3835,
+    "timeMonth": 3829,
     "timeYear": 5220,
     "dailyMinutesDown": {
       "2026-01-16": 44,
@@ -311,7 +311,7 @@
       "2025-09-18": 54,
       "2025-09-17": 27,
       "2025-09-16": 17,
-      "2025-09-15": 185
+      "2025-09-15": 157
     }
   },
   {
