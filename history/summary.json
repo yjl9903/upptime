@@ -257,18 +257,19 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.30%",
     "uptimeMonth": "98.57%",
     "uptimeYear": "99.70%",
-    "time": 5308,
+    "time": 5290,
     "timeDay": 3881,
     "timeWeek": 4960,
     "timeMonth": 4429,
     "timeYear": 5210,
     "dailyMinutesDown": {
+      "2026-01-24": 0,
       "2026-01-22": 41,
       "2026-01-21": 55,
       "2026-01-20": 36,
@@ -310,8 +311,7 @@
       "2025-10-15": 18,
       "2025-10-07": 16,
       "2025-09-28": 7,
-      "2025-09-27": 9,
-      "2025-09-21": 9
+      "2025-09-27": 9
     }
   },
   {
