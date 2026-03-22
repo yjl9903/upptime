@@ -27,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.onekuma.cn.ico",
     "slug": "blog",
     "status": "down",
-    "uptime": "95.45%",
+    "uptime": "95.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "86.97%",
+    "uptimeYear": "86.93%",
     "time": 1952,
     "timeDay": 487,
     "timeWeek": 341,
     "timeMonth": 3179,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2026-03-22": 7,
+      "2026-03-22": 213,
       "2026-03-21": 1440,
       "2026-03-20": 1440,
       "2026-03-19": 1440,
@@ -303,9 +303,9 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "97.59%",
+    "uptimeDay": "97.56%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.68%",
@@ -315,6 +315,7 @@
     "timeMonth": 4689,
     "timeYear": 5115,
     "dailyMinutesDown": {
+      "2026-03-22": 0,
       "2026-03-21": 35,
       "2026-03-20": 21,
       "2026-03-19": 24,
@@ -360,7 +361,7 @@
       "2025-12-16": 16,
       "2025-12-15": 12,
       "2025-12-14": 41,
-      "2025-12-13": 38
+      "2025-12-13": 27
     }
   },
   {
