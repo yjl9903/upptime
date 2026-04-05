@@ -38,7 +38,7 @@
     "timeMonth": 345,
     "timeYear": 2176,
     "dailyMinutesDown": {
-      "2026-04-05": 1307,
+      "2026-04-05": 1334,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
       "2026-04-02": 1440,
@@ -314,13 +314,13 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "91.83%",
+    "uptimeDay": "91.80%",
     "uptimeWeek": "98.01%",
     "uptimeMonth": "98.50%",
     "uptimeYear": "99.64%",
-    "time": 5106,
+    "time": 5108,
     "timeDay": 5861,
     "timeWeek": 4725,
     "timeMonth": 4664,
@@ -378,7 +378,7 @@
       "2025-12-21": 32,
       "2025-12-20": 61,
       "2025-12-18": 76,
-      "2025-12-17": 28
+      "2025-12-17": 14
     }
   },
   {
