@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.68%",
+    "uptimeYear": "82.67%",
     "time": 1947,
     "timeDay": 470,
     "timeWeek": 378,
     "timeMonth": 344,
     "timeYear": 2176,
     "dailyMinutesDown": {
-      "2026-04-06": 947,
+      "2026-04-06": 988,
       "2026-04-05": 1440,
       "2026-04-04": 1440,
       "2026-04-03": 1440,
@@ -189,7 +189,7 @@
     "timeDay": 646,
     "timeWeek": 1494,
     "timeMonth": 2136,
-    "timeYear": 3066,
+    "timeYear": 3072,
     "dailyMinutesDown": {
       "2026-03-21": 14,
       "2026-02-24": 21,
@@ -314,10 +314,10 @@
     "url": "https://keepshare.org/gv78k1oi/magnet%3A%3Fxt%3Durn%3Abtih%3AULRHXZU7IHGEIVKIXMRIGSRHSY26K7TF",
     "icon": "https://keepshare.org/img/logo.svg",
     "slug": "keep-share",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "83.87%",
-    "uptimeWeek": "96.88%",
+    "uptimeDay": "83.84%",
+    "uptimeWeek": "96.87%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "99.64%",
     "time": 5155,
@@ -377,7 +377,7 @@
       "2025-12-23": 41,
       "2025-12-22": 50,
       "2025-12-21": 32,
-      "2025-12-20": 61
+      "2025-12-20": 47
     }
   },
   {
