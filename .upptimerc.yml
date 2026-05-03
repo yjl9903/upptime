@@ -6,8 +6,6 @@ sites:
   - name: Home
     url: https://onekuma.cn
     icon: https://onekuma.cn/favicon.svg
-  - name: Blog
-    url: https://blog.onekuma.cn
   - name: Hexo
     url: https://xlor.cn
   - name: Anime Garden
@@ -28,6 +26,9 @@ sites:
   #   icon: https://resonance.breadio.wiki/favicon.png
   #   headers:
   #     - "User-Agent: resonance-market"
+  - name: lnovel
+    url: https://lnovel.animes.garden/bili/novels
+    icon: https://lnovel.animes.garden/favicon.ico
   - name: Livehouse
     url: https://live.onekuma.cn/
     icon: https://live.onekuma.cn/favicon.jpg
