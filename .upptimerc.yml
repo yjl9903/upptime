@@ -29,6 +29,8 @@ sites:
   - name: lnovel
     url: https://lnovel.animes.garden/bili/novels
     icon: https://lnovel.animes.garden/favicon.ico
+  - name: torrenta
+    url: https://torrent.animes.garden/
   - name: Livehouse
     url: https://live.onekuma.cn/
     icon: https://live.onekuma.cn/favicon.jpg
